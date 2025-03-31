@@ -1,0 +1,38 @@
+/* navbar */
+.navbar-custom {
+    background-color: #000;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: white;
+}
+
+.navbar-custom .nav-link:hover {
+    color: #f8f9fa;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+/* homepage */
+.homepage {
+    margin: 20px auto;
+    width: 70%;
+}
+
+.homepage h1 {
+    margin: auto;
+    width: 20%;
+}
+
+
+/* table content */
+.table-container {
+    margin: 20px auto;
+    overflow-x: auto;
+    width: 75%;
+}
