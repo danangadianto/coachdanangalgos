@@ -18,6 +18,22 @@
     width: 100%;
 }
 
+.navbar {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-link {
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    color: #333;
+}
+
+.nav-link:hover {
+    color: #007BFF;
+}
+
 /* homepage */
 .homepage {
     margin: 20px auto;
